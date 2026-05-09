@@ -1,22 +1,22 @@
-# 🔐 NetScan - Network Scanner Tool
+# 🔐 NetScan
 
-NetScan is a Python-based network scanning and vulnerability detection tool.
+NetScan is a Python-based network scanner and vulnerability analysis tool.
 
 ## 🚀 Features
-- Scan open ports
-- Detect operating system
-- Resolve hostnames
-- Generate scan reports
-- Basic vulnerability detection
+- Port scanning
+- OS detection
+- Hostname resolving
+- Vulnerability analysis
+- Report generation
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 - Python
 - Socket Programming
-- Custom vulnerability database
+- Cybersecurity Concepts
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/netscan.git
+git clone https://github.com/Shivangpatel03/netscan.git
 cd netscan
 pip install -r requirements.txt
